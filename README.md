@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Flutter and Web Development**
 
-- 💬 Ask me about **kotline, java, c++ and af**
+- 💬 Ask me about **kotline, java, c++ and Android Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
