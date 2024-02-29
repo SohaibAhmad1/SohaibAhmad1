@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sohaib Ahmad</h1>
 <h3 align="center">A passionate android developer from Pakistan</h3>
 
-<img align="right" width="400" alt="coding" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0ghiZAT-HzVWxzZ5Xm0-Yj&ust=1709027163649000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJDq_qncyIQDFQAAAAAdAAAAABAF"></img>
+<img align="right" width="400" alt="coding" src="https://media2.giphy.com/media/zhYSVCirREeIZtONCI/200w.gif"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohaibahmad1&label=Profile%20views&color=0e75b6&style=flat" alt="sohaibahmad1" /> </p>
 
